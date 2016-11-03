@@ -1,0 +1,5 @@
+*.suo
+googletest/sample1/vs2010/sample1.opensdf
+*.user
+googletest/sample1/vs2010/sample1.sdf
+*.log
