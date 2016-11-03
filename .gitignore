@@ -3,3 +3,6 @@ googletest/sample1/vs2010/sample1.opensdf
 *.user
 googletest/sample1/vs2010/sample1.sdf
 *.log
+*.opensdf
+googletest/google_demos_samples_vs2010.sdf
+googletest/google_demos_samples_vs2015.VC.db
