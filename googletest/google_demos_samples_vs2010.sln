@@ -5,6 +5,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sample1", "sample1\vs2010\s
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sample2", "sample2\vs2010\sample2.vcxproj", "{6F5D0448-1D41-4E0B-AF99-2BC8AE74D2A7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sample3", "sample3\vs2010\sample3.vcxproj", "{AFEB34E1-2931-4CBF-B947-A2BABEE9A5B6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sample4", "sample4\vs2010\sample4.vcxproj", "{EC5CE98B-F419-48F5-A7BC-7A15DF15FD91}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sample5", "sample5\vs2010\sample5.vcxproj", "{04C4F116-18A9-4908-B80C-9DFA794C0009}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +25,18 @@ Global
 		{6F5D0448-1D41-4E0B-AF99-2BC8AE74D2A7}.Debug|Win32.Build.0 = Debug|Win32
 		{6F5D0448-1D41-4E0B-AF99-2BC8AE74D2A7}.Release|Win32.ActiveCfg = Release|Win32
 		{6F5D0448-1D41-4E0B-AF99-2BC8AE74D2A7}.Release|Win32.Build.0 = Release|Win32
+		{AFEB34E1-2931-4CBF-B947-A2BABEE9A5B6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AFEB34E1-2931-4CBF-B947-A2BABEE9A5B6}.Debug|Win32.Build.0 = Debug|Win32
+		{AFEB34E1-2931-4CBF-B947-A2BABEE9A5B6}.Release|Win32.ActiveCfg = Release|Win32
+		{AFEB34E1-2931-4CBF-B947-A2BABEE9A5B6}.Release|Win32.Build.0 = Release|Win32
+		{EC5CE98B-F419-48F5-A7BC-7A15DF15FD91}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EC5CE98B-F419-48F5-A7BC-7A15DF15FD91}.Debug|Win32.Build.0 = Debug|Win32
+		{EC5CE98B-F419-48F5-A7BC-7A15DF15FD91}.Release|Win32.ActiveCfg = Release|Win32
+		{EC5CE98B-F419-48F5-A7BC-7A15DF15FD91}.Release|Win32.Build.0 = Release|Win32
+		{04C4F116-18A9-4908-B80C-9DFA794C0009}.Debug|Win32.ActiveCfg = Debug|Win32
+		{04C4F116-18A9-4908-B80C-9DFA794C0009}.Debug|Win32.Build.0 = Debug|Win32
+		{04C4F116-18A9-4908-B80C-9DFA794C0009}.Release|Win32.ActiveCfg = Release|Win32
+		{04C4F116-18A9-4908-B80C-9DFA794C0009}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
