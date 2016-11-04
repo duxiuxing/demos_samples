@@ -8,3 +8,7 @@ googletest/google_demos_samples_vs2010.sdf
 googletest/google_demos_samples_vs2015.VC.db
 googletest/samplex/vs2010/samplex.sdf
 *.ipch
+googletest/gtest_demos_samples_vs2010.sdf
+*.db
+googletest/sample1/vs2015/test_results.xml
+*.sdf
