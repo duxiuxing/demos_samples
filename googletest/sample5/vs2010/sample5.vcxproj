@@ -77,6 +77,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\third_party\googletest\samples\sample1.cc" />
+    <ClCompile Include="..\..\..\third_party\googletest\samples\sample5_unittest.cc" />
     <ClCompile Include="..\..\..\third_party\googletest\src\gtest-all.cc" />
     <ClCompile Include="..\..\..\third_party\googletest\src\gtest_main.cc" />
   </ItemGroup>

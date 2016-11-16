@@ -12,3 +12,7 @@ googletest/gtest_demos_samples_vs2010.sdf
 *.db
 googletest/sample1/vs2015/test_results.xml
 *.sdf
+*.manifest
+*.tlog
+*.obj
+*.opendb
