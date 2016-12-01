@@ -23,3 +23,4 @@ googletest/sample3/vs2010/Debug/sample3.vcxprojResolveAssemblyReference.cache
 *.lastbuildstate
 googletest/sample3/vs2010/Debug/sample3.exe.embed.manifest.res
 *.ilk
+eclipse/HelloWorld/.classpath
