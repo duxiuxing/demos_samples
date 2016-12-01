@@ -16,3 +16,10 @@ googletest/sample1/vs2015/test_results.xml
 *.tlog
 *.obj
 *.opendb
+*.pdb
+googletest/sample3/vs2010/Debug/sample3_manifest.rc
+*.idb
+googletest/sample3/vs2010/Debug/sample3.vcxprojResolveAssemblyReference.cache
+*.lastbuildstate
+googletest/sample3/vs2010/Debug/sample3.exe.embed.manifest.res
+*.ilk
